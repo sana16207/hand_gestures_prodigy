@@ -33,4 +33,4 @@ python main.py
 ## Output
 Gesture prediction window with classified hand signs.
 
-Author: Sanjana R P
+Author: Sanjana R Predeploy
